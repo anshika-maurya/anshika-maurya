@@ -1,12 +1,13 @@
 <!-- Sleek Animated Developer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=240&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=240&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Developer Banner" />
 </p>
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Developer+%7C+MERN+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=ff6f61&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Developer+%7C+MERN+Enthusiast" alt="Typing SVG"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/anshika-maurya" target="_blank"><img src="https://img.shields.io/github/followers/anshika-maurya?label=Follow&style=social" /></a>
