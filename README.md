@@ -75,7 +75,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://github.com/anshika-maurya/studynotion" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://github.com/anshika-maurya/educational-platform" target="_blank">🔗 GitHub</a><br/>
       <a href="https://educational-platform-16.vercel.app/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
