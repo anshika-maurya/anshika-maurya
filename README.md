@@ -106,7 +106,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-maurya&theme=radical" alt="Streak Stats" height="170"/>
+<!--  <img src="https://img.shields.io/badge/Streak-Check%20My%20Contributions-purple?style=for-the-badge&logo=github" /> -->
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-maurya&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
