@@ -20,13 +20,13 @@
 ## 🚀 <span style="color:#F857A6">About Me</span>
 
 <div align="center">
-  <b>MERN Stack Developer |  Passionate about building scalable web apps</b><br/>
+  <b>MERN Stack Developer | Passionate about building scalable and interactive web apps</b><br/>
   <br/>
   <ul align="left">
-    <li>🔭 Currently building <b>StayFinder</b> – a full-stack rental booking app like Airbnb</li>
-    <li>🌱 Exploring <b>Three.js</b>, advanced React, and cloud deployment</li>
-    <li>🤝 Love <b>team collaboration</b>, clean code, and solving real-world problems</li>
-    <li>💬 Ask me about <b>MERN Stack, APIs, Animations, Firebase, Tailwind, and DBs</b></li>
+    <li>🌱 Currently diving into <b>Three.js</b> for 3D web experiences</li>
+    <li>⚛️ Skilled in building full-stack apps using React, Node, Express, and MongoDB</li>
+    <li>🤝 Enthusiastic about <b>team collaboration</b>, clean architecture, and creative UIs</li>
+    <li>💬 Ask me about <b>MERN Stack, APIs, Animations, Firebase, Tailwind CSS, and databases</b></li>
   </ul>
 </div>
 
@@ -61,8 +61,8 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">🔗 GitHub</a><br/>
-      <a href="https://task-tracker-demo.vercel.app" target="_blank">🚀 Live Demo</a>
+      <a href="https://github.com/anshika-maurya/Task-Tracker" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://task-tracker-theta-steel.vercel.app/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/anshika-maurya/studynotion" target="_blank">🔗 GitHub</a><br/>
-      <a href="https://studynotion.vercel.app" target="_blank">🚀 Live Demo</a>
+      <a href="https://educational-platform-16.vercel.app/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -89,8 +89,8 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://github.com/anshika-maurya/animated-site" target="_blank">🔗 GitHub</a><br/>
-      <a href="https://animated-portfolio.vercel.app" target="_blank">🚀 Live Demo</a>
+      <a href="https://github.com/anshika-maurya/theCuberto" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://anshika-maurya.github.io/theCuberto/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
 </table>
