@@ -1,6 +1,11 @@
+<!-- Sleek Animated Developer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=240&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Developer Banner" />
+</p>
+
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;MERN+Stack+Developer+%7C+BSc+IT+Graduate+%7C+Tech+Explorer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Developer+%7C+MERN+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,15 +20,12 @@
 ## 🚀 <span style="color:#F857A6">About Me</span>
 
 <div align="center">
-  <b>Final Year B.Sc. IT student | MERN Stack Developer | Tech Explorer</b><br/>
+  <b>MERN Stack Developer |  Passionate about building scalable web apps</b><br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,express,tailwind,git,postman,mysql,java,c,cpp,html,css,vscode,vercel,render" height="32"/>
-  <br/><br/>
   <ul align="left">
-    <li>🎓 Final Year B.Sc. IT student from Sri Dev Suman University</li>
     <li>🔭 Currently building <b>StayFinder</b> – a full-stack rental booking app like Airbnb</li>
-    <li>🌱 Actively learning <b>Three.js</b> and sharpening my <b>Data Structures & Algorithms</b></li>
-    <li>🤝 I love <b>team collaboration</b>, clean code, and solving real-world problems</li>
+    <li>🌱 Exploring <b>Three.js</b>, advanced React, and cloud deployment</li>
+    <li>🤝 Love <b>team collaboration</b>, clean code, and solving real-world problems</li>
     <li>💬 Ask me about <b>MERN Stack, APIs, Animations, Firebase, Tailwind, and DBs</b></li>
   </ul>
 </div>
@@ -33,37 +35,8 @@
 ## 🧑‍💻 <span style="color:#F857A6">Tech Stack</span>
 
 <div align="center">
-
-#### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=java&logoColor=red)
-![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-#### 🔧 Backend & DB
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=E44C30)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VSCode-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Render](https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=white)
-
+  <!-- Large, Animated, Professional Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,postman,vercel,render&theme=dark&perline=8" height="80" style="margin:18px 0;"/>
 </div>
 
 ---
@@ -72,19 +45,61 @@
 
 <div align="center">
 
-
-### 📌 <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">Task Tracker App</a> – MERN Stack
-> A task & project management platform with JWT auth, dashboards, deadlines, and real-time progress tracking.
-
-### 📌 <a href="#" target="_blank">Learning Management System (LMS)</a>
-> A full-stack EdTech platform with instructor dashboard, payments (Razorpay), video hosting (Cloudinary), and user feedback.
-
-### 📌 <a href="#" target="_blank">Animated Portfolio Site</a>
-> A stylish frontend project with custom cursor, hover effects, GSAP animations, and smooth storytelling using Shery.js.
+<table>
+  <tr>
+    <th align="center">Project</th>
+    <th align="center">Description</th>
+    <th align="center">Links</th>
+  </tr>
+  <tr>
+    <td><strong>Task Tracker App</strong><br/><em>MERN Stack</em></td>
+    <td align="left">
+      <ul>
+        <li>Secure task/project management dashboard</li>
+        <li>JWT-based authentication & session storage</li>
+        <li>Real-time updates, role-based access</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://task-tracker-demo.vercel.app" target="_blank">🚀 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Learning Management System</strong><br/><em>MERN + Razorpay + Cloudinary</em></td>
+    <td align="left">
+      <ul>
+        <li>Course creation, enrollment & video hosting</li>
+        <li>Instructor dashboard & review module</li>
+        <li>Payment integration & user progress tracking</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anshika-maurya/studynotion" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://studynotion.vercel.app" target="_blank">🚀 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Animated Website</strong><br/><em>HTML, CSS, JS, GSAP, Shery.js</em></td>
+    <td align="left">
+      <ul>
+        <li>Custom cursor, smooth scroll storytelling</li>
+        <li>Responsive animations & media reveals</li>
+        <li>Built for a visual and interactive user experience</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anshika-maurya/animated-site" target="_blank">🔗 GitHub</a><br/>
+      <a href="https://animated-portfolio.vercel.app" target="_blank">🚀 Live Demo</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
+
 
 ## 📊 <span style="color:#F857A6">GitHub Stats</span>
 
@@ -97,13 +112,7 @@
 
 ---
 
-## ✨ <span style="color:#F857A6">Fun Fact</span>
 
-<div align="center">
-  <i>“I turn ideas into interactive, user-friendly apps – one component at a time! 💡💻”</i>
-</div>
-
----
 
 <p align="center">
   Made with ❤️ by <strong>Anshika Maurya</strong>
