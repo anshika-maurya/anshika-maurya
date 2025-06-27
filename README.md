@@ -1,6 +1,11 @@
+<!-- Animated Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=fff&animation=twinkling" alt="banner"/>
+</p>
+
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;MERN+Stack+Developer+%7C+BSc+IT+Graduate+%7C+Tech+Explorer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Developer+%7C+MERN+Specialist+%7C+Tech+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,15 +20,12 @@
 ## 🚀 <span style="color:#F857A6">About Me</span>
 
 <div align="center">
-  <b>Final Year B.Sc. IT student | MERN Stack Developer | Tech Explorer</b><br/>
+  <b>MERN Stack Developer | BSc IT Graduate | Passionate about building scalable web apps</b><br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,express,tailwind,git,postman,mysql,java,c,cpp,html,css,vscode,vercel,render" height="32"/>
-  <br/><br/>
   <ul align="left">
-    <li>🎓 Final Year B.Sc. IT student from Sri Dev Suman University</li>
     <li>🔭 Currently building <b>StayFinder</b> – a full-stack rental booking app like Airbnb</li>
-    <li>🌱 Actively learning <b>Three.js</b> and sharpening my <b>Data Structures & Algorithms</b></li>
-    <li>🤝 I love <b>team collaboration</b>, clean code, and solving real-world problems</li>
+    <li>🌱 Exploring <b>Three.js</b>, advanced React, and cloud deployment</li>
+    <li>🤝 Love <b>team collaboration</b>, clean code, and solving real-world problems</li>
     <li>💬 Ask me about <b>MERN Stack, APIs, Animations, Firebase, Tailwind, and DBs</b></li>
   </ul>
 </div>
@@ -33,37 +35,10 @@
 ## 🧑‍💻 <span style="color:#F857A6">Tech Stack</span>
 
 <div align="center">
-
-#### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=java&logoColor=red)
-![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-161B22?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-#### 🔧 Backend & DB
-
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=E44C30)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VSCode-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Render](https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=white)
-
+  <!-- Animated Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,html,css,mysql,git,github,postman,vercel,render&theme=dark&perline=8" height="60" style="margin:10px 0;"/>
+  <br/>
+  <img src="https://github.com/Anshika-Maurya/Anshika-Maurya/assets/tech-icons-animated.gif" height="40" alt="animated icons"/>
 </div>
 
 ---
@@ -72,25 +47,47 @@
 
 <div align="center">
 
-### 📌 <a href="https://github.com/anshika-maurya/stayfinder" target="_blank">StayFinder</a> – MERN Stack
-> A full-stack rental booking app like Airbnb with authentication, listings, and booking management.
-
-### 📌 <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">Task Tracker App</a> – MERN Stack
-> A task & project management platform with JWT auth, dashboards, deadlines, and real-time progress tracking.
-
-### 📌 <a href="#" target="_blank">Learning Management System (LMS)</a>
-> A full-stack EdTech platform with instructor dashboard, payments (Razorpay), video hosting (Cloudinary), and user feedback.
-
-### 📌 <a href="#" target="_blank">Animated Portfolio Site</a>
-> A stylish frontend project with custom cursor, hover effects, GSAP animations, and smooth storytelling using Shery.js.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/anshika-maurya/stayfinder" target="_blank">
+        <img src="https://github.com/anshika-maurya/stayfinder/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="StayFinder"/>
+        <br/>
+        <b>StayFinder</b>
+      </a>
+      <br/>
+      <sub>Full-stack rental booking app like Airbnb. Auth, listings, booking management, and more.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">
+        <img src="https://github.com/anshika-maurya/task-tracker/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="Task Tracker"/>
+        <br/>
+        <b>Task Tracker App</b>
+      </a>
+      <br/>
+      <sub>Project management platform with JWT auth, dashboards, deadlines, and real-time tracking.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#" target="_blank">
+        <img src="https://github.com/anshika-maurya/portfolio/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="Animated Portfolio"/>
+        <br/>
+        <b>Animated Portfolio Site</b>
+      </a>
+      <br/>
+      <sub>Stylish frontend with custom cursor, GSAP animations, and smooth storytelling using Shery.js.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 <span style="color:#F857A6">GitHub Stats</span>
+## 📈 <span style="color:#F857A6">GitHub Activity & Stats</span>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshika-maurya&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-maurya&theme=radical" alt="Streak Stats" height="170"/>
   <br/>
@@ -102,7 +99,7 @@
 ## ✨ <span style="color:#F857A6">Fun Fact</span>
 
 <div align="center">
-  <i>“I turn ideas into interactive, user-friendly apps – one component at a time! 💡💻”</i>
+  <i>“Turning ideas into interactive, user-friendly apps — one component at a time! 💡💻”</i>
 </div>
 
 ---
