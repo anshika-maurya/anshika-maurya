@@ -1,12 +1,14 @@
-<!-- Animated Gradient Banner -->
+<!-- Enhanced Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=fff&animation=twinkling" alt="banner"/>
+  <img src="https://readme-landing-page.vercel.app/api/banner?title=Anshika%20Maurya&subtitle=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Tech%20Enthusiast&gradient=radial&animation=wave&color1=8e2de2&color2=4a00e0&fontColor=fff" alt="Professional Banner"/>
 </p>
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F857A6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Developer+%7C+MERN+Specialist+%7C+Tech+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F857A6%2CFF5858%2CFF8C00&center=true&vCenter=true&multiline=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Anshika+Maurya;Full+Stack+Web+Developer+%7C+MERN+Enthusiast;Crafting+Interactive+UIs+%F0%9F%8C%9F+with+React%2C+Node%2C+MongoDB;Turning+ideas+into+impactful+web+apps+%F0%9F%92%BB"
+  alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/anshika-maurya" target="_blank"><img src="https://img.shields.io/github/followers/anshika-maurya?label=Follow&style=social" /></a>
@@ -35,10 +37,10 @@
 ## 🧑‍💻 <span style="color:#F857A6">Tech Stack</span>
 
 <div align="center">
-  <!-- Animated Tech Icons -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,html,css,mysql,git,github,postman,vercel,render&theme=dark&perline=8" height="60" style="margin:10px 0;"/>
+  <!-- Large, Animated, Professional Tech Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,postman,vercel,render&theme=dark&perline=8" height="80" style="margin:18px 0;"/>
   <br/>
-  <img src="https://github.com/Anshika-Maurya/Anshika-Maurya/assets/tech-icons-animated.gif" height="40" alt="animated icons"/>
+  <img src="https://github.com/Anshika-Maurya/Anshika-Maurya/assets/tech-icons-animated.gif" height="50" alt="animated icons"/>
 </div>
 
 ---
@@ -50,17 +52,8 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/anshika-maurya/stayfinder" target="_blank">
-        <img src="https://github.com/anshika-maurya/stayfinder/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="StayFinder"/>
-        <br/>
-        <b>StayFinder</b>
-      </a>
-      <br/>
-      <sub>Full-stack rental booking app like Airbnb. Auth, listings, booking management, and more.</sub>
-    </td>
-    <td align="center" width="33%">
       <a href="https://github.com/anshika-maurya/task-tracker" target="_blank">
-        <img src="https://github.com/anshika-maurya/task-tracker/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="Task Tracker"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="Task Tracker"/>
         <br/>
         <b>Task Tracker App</b>
       </a>
@@ -69,7 +62,16 @@
     </td>
     <td align="center" width="33%">
       <a href="#" target="_blank">
-        <img src="https://github.com/anshika-maurya/portfolio/raw/main/cover.png" width="100%" style="border-radius:12px;" alt="Animated Portfolio"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="80" alt="LMS"/>
+        <br/>
+        <b>Learning Management System (LMS)</b>
+      </a>
+      <br/>
+      <sub>EdTech platform with instructor dashboard, payments, video hosting, and user feedback.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" alt="Animated Portfolio"/>
         <br/>
         <b>Animated Portfolio Site</b>
       </a>
