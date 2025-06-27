@@ -102,15 +102,23 @@
 
 
 
-## 📊 <span style="color:#F857A6">GitHub Stats</span>
+## 📊 <span style="color:#F857A6; font-size:28px; font-weight:bold; background: linear-gradient(90deg, #F857A6 0%, #FF5858 100%); -webkit-background-clip: text; color: transparent;">GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-<!--  <img src="https://img.shields.io/badge/Streak-Check%20My%20Contributions-purple?style=for-the-badge&logo=github" /> -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=F857A6&icon_color=F857A6" alt="GitHub Stats" height="180" style="margin: 12px; border: 2.5px solid #F857A6; border-radius: 14px; box-shadow: 0 6px 20px rgba(248,87,166,0.18);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-maurya&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=F857A6" alt="Top Languages" height="150" style="margin: 12px; border: 2.5px solid #F857A6; border-radius: 14px; box-shadow: 0 6px 20px rgba(248,87,166,0.18);"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-maurya&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Large, professional activity/contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshika-maurya&theme=github-compact&area=true&hide_border=false&color=F857A6&line=F857A6&point=FF5858&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" height="320" style="margin: 16px 0 0 0; border: 2.5px solid #F857A6; border-radius: 18px; box-shadow: 0 8px 32px rgba(248,87,166,0.18); display: block;"/>
 </p>
+
+<!--
+If the contribution/activity graph images are not showing:
+- Make sure your repo is public.
+- Sometimes these services are temporarily down or rate-limited by GitHub.
+- Try opening the image URLs directly in your browser to check their status.
+- You can also try alternative services or check for updates on the card provider's GitHub page.
+-->
 
 ---
 
