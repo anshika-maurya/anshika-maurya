@@ -1,7 +1,8 @@
 <!-- Sleek Animated Developer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=240&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:1E90FF&height=240&section=header&text=Anshika%20Maurya%20%7C%20Full%20Stack%20Developer&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" alt="Developer Banner" />
 </p>
+
 
 <!-- Animated Typing Banner -->
 <p align="center">
