@@ -13,6 +13,9 @@
   <a href="https://linkedin.com/in/anshika-maurya64" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-9455BC?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://twitter.com/@Dreamshade16_" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-9455BC?style=flat&logo=twitter&logoColor=white" />
+  </a>
   <a href="mailto:anshikamaurya6400@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-9455BC?style=flat&logo=gmail&logoColor=white" />
   </a>
