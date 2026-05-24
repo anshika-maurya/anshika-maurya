@@ -90,12 +90,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical&bg_color=0D1117&title_color=9455BC&icon_color=9455BC" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-maurya&layout=compact&theme=radical&bg_color=0D1117&title_color=9455BC" height="170"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshika-maurya&show_icons=true&theme=radical&bg_color=0D1117&title_color=9455BC&icon_color=9455BC&hide_border=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshika-maurya&layout=compact&theme=radical&bg_color=0D1117&title_color=9455BC&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshika-maurya&theme=radical&background=0D1117&ring=9455BC&fire=9455BC&currStreakLabel=9455BC"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshika-maurya&theme=radical"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anshika-maurya&bg_color=0D1117&color=9455BC&line=9455BC&point=FFFFFF&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
