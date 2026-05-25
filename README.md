@@ -83,7 +83,7 @@
 
 * Custom cursor & smooth scroll storytelling
 * Interactive animations & media reveals
-  [🔗 GitHub](https://github.com/anshika-maurya/theCuberto) | [🚀 Live](https://the-cuberto.vercel.app/)
+  [🔗 GitHub](https://github.com/anshika-maurya/theCuberto) | [🚀 Live](https://anshika-maurya.github.io/theCuberto/)
 
 ---
 
